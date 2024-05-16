@@ -1,0 +1,20 @@
+.contendor_perfil{
+   
+        border: 2px solid #000; /* Borde sólido de 2 píxeles de ancho y color negro */
+        border-radius: 15px; /* Bordes redondeados */
+        padding: 10px; /* Espacio interno del borde */
+        width: 100%; /* Ocupa todo el ancho disponible */
+        box-sizing: border-box; /* Incluye el borde y el relleno dentro del ancho total */
+        background-color:cadetblue;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .imagen_perfil {
+        border: 2px solid #000; 
+        border-radius: 50%; 
+        width: 150px; 
+        height: 150px; 
+        object-fit: cover; 
+    }
+
