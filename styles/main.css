@@ -18,3 +18,15 @@
         object-fit: cover; 
     }
 
+    li{
+        color: grey;
+        opacity: 50%;
+    }
+
+   
+
+    #Titulos{
+        font-size:xx-large;
+        font-family: 'Times New Roman', Times, serif;
+        color: brown;
+    }
